@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c5bcc0e-de49-4738-94e4-aa8666332474" name="Default Changelist" comment="" />
+    <list default="true" id="4c5bcc0e-de49-4738-94e4-aa8666332474" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +16,10 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1ZQ3pfdD8kUlb75EOJFk0bsg28A" />
   <component name="ProjectViewState">
@@ -189,17 +195,25 @@
       <workItem from="1592296040225" duration="3614000" />
       <workItem from="1592354787251" duration="6267000" />
       <workItem from="1592439982001" duration="8065000" />
+      <workItem from="1592906842403" duration="659000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="568" y="350" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584757694711">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="568" y="350" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1440.920@0.0.1440.920" timestamp="1584757694711" />
+    <state x="2969" y="224" key="CommitChangelistDialog2" timestamp="1592907573410">
+      <screen x="2160" y="0" width="2560" height="1400" />
+    </state>
+    <state x="2969" y="224" key="CommitChangelistDialog2/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1592907573410" />
     <state x="2798" y="284" key="FileChooserDialogImpl" timestamp="1591577849471">
       <screen x="2160" y="0" width="2560" height="1400" />
     </state>
@@ -257,12 +271,16 @@
     </state>
     <state x="2420" y="114" width="1296" height="944" key="SettingsEditor/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1591577764765" />
     <state x="146" y="0" key="SettingsEditor/0.0.1440.920@0.0.1440.920" timestamp="1584759045967" />
-    <state x="2880" y="434" key="com.intellij.ide.util.TipDialog" timestamp="1592440058662">
+    <state x="2880" y="434" key="com.intellij.ide.util.TipDialog" timestamp="1592906844707">
       <screen x="2160" y="0" width="2560" height="1400" />
     </state>
     <state x="405" y="285" key="com.intellij.ide.util.TipDialog/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1591683602653" />
-    <state x="2880" y="434" key="com.intellij.ide.util.TipDialog/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1592440058662" />
+    <state x="2880" y="434" key="com.intellij.ide.util.TipDialog/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1592906844707" />
     <state x="405" y="285" key="com.intellij.ide.util.TipDialog/0.0.1440.920@0.0.1440.920" timestamp="1588855500593" />
+    <state x="3199" y="598" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592907578071">
+      <screen x="2160" y="0" width="2560" height="1400" />
+    </state>
+    <state x="3199" y="598" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1592907578071" />
     <state x="399" y="307" width="713" height="305" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1584758936562">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
