@@ -1,22 +1,41 @@
 package d_6June;
 
 public class MajorityElement {
+//    public int majorityElement(int[] nums) {
+//        int n =nums.length;
+//        if(n==0)return -1;
+//        int num = nums[0],cnt = 1;
+//        for(int i=1;i<n;i++){
+//            if(nums[i]==num){
+//                cnt++;
+//            }
+//            else cnt--;
+//            if(cnt==-1){
+//                num=nums[i];
+//                cnt=1;
+//            }
+//        }
+//        return cnt>0?num:-1;
+//    }
+
     public int majorityElement(int[] nums) {
-        int n =nums.length;
-        if(n==0)return -1;
-        int num = nums[0],cnt = 1;
-        for(int i=1;i<n;i++){
-            if(nums[i]==num){
-                cnt++;
+        int cot=1;
+        int num=nums[0];
+        for(int i=1;i<nums.length;i++){
+            if(num==nums[i]){
+                cot++;
             }
-            else cnt--;
-            if(cnt==-1){
+            else if(num!=nums[i]){
+                cot--;
+
+            }
+            if(cot==0){
                 num=nums[i];
-                cnt=1;
+                cot++;
             }
         }
-        return cnt>0?num:-1;
-    }
+        return num;
+}
 }
 /*
 class Solution {
