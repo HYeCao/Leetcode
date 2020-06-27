@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c5bcc0e-de49-4738-94e4-aa8666332474" name="Default Changelist" comment="6.27">
+    <list default="true" id="4c5bcc0e-de49-4738-94e4-aa8666332474" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/d_6June/Foo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/d_6June/Foo.java" afterDir="false" />
     </list>
@@ -199,7 +199,7 @@
       <workItem from="1592906842403" duration="2316000" />
       <workItem from="1593008051226" duration="801000" />
       <workItem from="1593133632580" duration="5157000" />
-      <workItem from="1593219431833" duration="3603000" />
+      <workItem from="1593219431833" duration="3653000" />
     </task>
     <task id="LOCAL-00001" summary="6.23">
       <created>1592907673616</created>
@@ -243,7 +243,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593222598448</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="6.27">
+      <created>1593223046445</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1593223046445</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -260,10 +267,10 @@
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="568" y="350" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1440.920@0.0.1440.920" timestamp="1584757694711" />
-    <state x="455" y="0" key="CommitChangelistDialog2" timestamp="1593222837149">
+    <state x="455" y="0" key="CommitChangelistDialog2" timestamp="1593223045985">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="455" y="0" key="CommitChangelistDialog2/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1593222837149" />
+    <state x="455" y="0" key="CommitChangelistDialog2/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1593223045985" />
     <state x="2969" y="224" key="CommitChangelistDialog2/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1592909230438" />
     <state x="455" y="0" key="CommitChangelistDialog2/0.0.1440.920@0.0.1440.920" timestamp="1593139731281" />
     <state x="2798" y="284" key="FileChooserDialogImpl" timestamp="1591577849471">
@@ -323,10 +330,10 @@
     </state>
     <state x="2420" y="114" width="1296" height="944" key="SettingsEditor/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1591577764765" />
     <state x="146" y="0" key="SettingsEditor/0.0.1440.920@0.0.1440.920" timestamp="1584759045967" />
-    <state x="213" y="129" key="Vcs.Push.Dialog.v2" timestamp="1593222862242">
+    <state x="213" y="129" key="Vcs.Push.Dialog.v2" timestamp="1593223054637">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="213" y="129" key="Vcs.Push.Dialog.v2/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1593222862242" />
+    <state x="213" y="129" key="Vcs.Push.Dialog.v2/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1593223054637" />
     <state x="405" y="285" key="com.intellij.ide.util.TipDialog" timestamp="1593219440812">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
@@ -337,6 +344,10 @@
       <screen x="2160" y="0" width="2560" height="1400" />
     </state>
     <state x="3199" y="598" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1592908702272" />
+    <state x="378" y="208" key="git4idea.merge.GitPullDialog" timestamp="1593223083219">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="378" y="208" key="git4idea.merge.GitPullDialog/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1593223083219" />
     <state x="399" y="307" width="713" height="305" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1584758936562">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
