@@ -12,7 +12,7 @@ class Foo {
      */
     private boolean firstFinished;
     private boolean secondFinished;
-    private  Object lock = new Object();//自定义对象
+    private final Object lock = new Object();//自定义对象
 
 
     public Foo() {
