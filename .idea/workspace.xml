@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c5bcc0e-de49-4738-94e4-aa8666332474" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/d_6June/LastRemaining.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d_6June/NumArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d_6June/RomanToInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d_6June/FindSpecialInteger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -204,7 +201,7 @@
       <workItem from="1593133632580" duration="5157000" />
       <workItem from="1593219431833" duration="4375000" />
       <workItem from="1593336519238" duration="3734000" />
-      <workItem from="1593418602167" duration="5049000" />
+      <workItem from="1593418602167" duration="5761000" />
     </task>
     <task id="LOCAL-00001" summary="6.23">
       <created>1592907673616</created>
@@ -269,7 +266,21 @@
       <option name="project" value="LOCAL" />
       <updated>1593340235804</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="6.29">
+      <created>1593424184180</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1593424184180</updated>
+    </task>
+    <task id="LOCAL-00011" summary="6.29">
+      <created>1593424343942</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1593424343942</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -280,13 +291,14 @@
     <MESSAGE value="6.26" />
     <MESSAGE value="6.27" />
     <MESSAGE value="6.28" />
-    <option name="LAST_COMMIT_MESSAGE" value="6.28" />
+    <MESSAGE value="6.29" />
+    <option name="LAST_COMMIT_MESSAGE" value="6.29" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="455" y="0" key="CommitChangelistDialog2" timestamp="1593424183575">
+    <state x="455" y="0" key="CommitChangelistDialog2" timestamp="1593424343493">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="455" y="0" key="CommitChangelistDialog2/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1593424183575" />
+    <state x="455" y="0" key="CommitChangelistDialog2/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1593424343493" />
     <state x="2969" y="224" key="CommitChangelistDialog2/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1593340235236" />
     <state x="455" y="0" key="CommitChangelistDialog2/0.0.1440.920@0.0.1440.920" timestamp="1593139731281" />
     <state x="2798" y="284" key="FileChooserDialogImpl" timestamp="1591577849471">
@@ -345,10 +357,10 @@
       <screen x="2160" y="0" width="2560" height="1400" />
     </state>
     <state x="2420" y="114" width="1296" height="944" key="SettingsEditor/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1591577764765" />
-    <state x="213" y="129" key="Vcs.Push.Dialog.v2" timestamp="1593424254269">
+    <state x="213" y="129" key="Vcs.Push.Dialog.v2" timestamp="1593424357883">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="213" y="129" key="Vcs.Push.Dialog.v2/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1593424254269" />
+    <state x="213" y="129" key="Vcs.Push.Dialog.v2/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1593424357883" />
     <state x="2539" y="196" key="Vcs.Push.Dialog.v2/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1593340244686" />
     <state x="405" y="285" key="com.intellij.ide.util.TipDialog" timestamp="1593219440812">
       <screen x="0" y="0" width="1440" height="920" />
@@ -365,9 +377,10 @@
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="378" y="208" key="git4idea.merge.GitPullDialog/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1593223083219" />
-    <state x="2692" y="-2" width="1494" height="1574" key="search.everywhere.popup" timestamp="1591839199421">
-      <screen x="2160" y="0" width="2560" height="1400" />
+    <state x="299" y="-1" width="841" height="1035" key="search.everywhere.popup" timestamp="1593424807171">
+      <screen x="0" y="0" width="1440" height="920" />
     </state>
+    <state x="299" y="-1" width="841" height="1035" key="search.everywhere.popup/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1593424807171" />
     <state x="2692" y="-2" width="1494" height="1574" key="search.everywhere.popup/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1591839199421" />
     <state x="299" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1440.920@0.0.1440.920" timestamp="1585378511143" />
   </component>
