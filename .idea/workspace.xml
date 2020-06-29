@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c5bcc0e-de49-4738-94e4-aa8666332474" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/d_6June/ConvertBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d_6June/FindTheDifference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d_6June/UncommonFromSentences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d_6June/LastRemaining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d_6June/NumArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d_6June/RomanToInt.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/bin/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/d_6June/DistributeCandies.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/d_6June/DistributeCandies.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +55,7 @@
       <recent name="D:\JavaResource\Leetcode\src\aaa" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FindTheDifference">
+  <component name="RunManager" selected="Application.RomanToInt">
     <configuration name="CountLargestGroup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="d_6June.CountLargestGroup" />
       <module name="Leetcode" />
@@ -110,8 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProjectionArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="d_6June.ProjectionArea" />
+    <configuration name="RomanToInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="d_6June.RomanToInt" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
@@ -125,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RomanToInt" />
         <item itemvalue="Application.FindTheDifference" />
         <item itemvalue="Application.DistributeCandies" />
         <item itemvalue="Application.CountLargestGroup" />
         <item itemvalue="Application.NextGreaterElement" />
-        <item itemvalue="Application.ProjectionArea" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +203,8 @@
       <workItem from="1593008051226" duration="801000" />
       <workItem from="1593133632580" duration="5157000" />
       <workItem from="1593219431833" duration="4375000" />
-      <workItem from="1593336519238" duration="3681000" />
+      <workItem from="1593336519238" duration="3734000" />
+      <workItem from="1593418602167" duration="5049000" />
     </task>
     <task id="LOCAL-00001" summary="6.23">
       <created>1592907673616</created>
@@ -263,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593223103613</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="6.28">
+      <created>1593340235804</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1593340235804</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -273,46 +279,47 @@
     <MESSAGE value="6.23" />
     <MESSAGE value="6.26" />
     <MESSAGE value="6.27" />
-    <option name="LAST_COMMIT_MESSAGE" value="6.27" />
+    <MESSAGE value="6.28" />
+    <option name="LAST_COMMIT_MESSAGE" value="6.28" />
   </component>
   <component name="WindowStateProjectService">
     <state x="568" y="350" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584757694711">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="568" y="350" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1440.920@0.0.1440.920" timestamp="1584757694711" />
-    <state x="455" y="0" key="CommitChangelistDialog2" timestamp="1593223103175">
-      <screen x="0" y="0" width="1440" height="920" />
+    <state x="2969" y="224" key="CommitChangelistDialog2" timestamp="1593340235236">
+      <screen x="2160" y="0" width="2560" height="1400" />
     </state>
     <state x="455" y="0" key="CommitChangelistDialog2/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1593223103175" />
-    <state x="2969" y="224" key="CommitChangelistDialog2/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1592909230438" />
+    <state x="2969" y="224" key="CommitChangelistDialog2/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1593340235236" />
     <state x="455" y="0" key="CommitChangelistDialog2/0.0.1440.920@0.0.1440.920" timestamp="1593139731281" />
     <state x="2798" y="284" key="FileChooserDialogImpl" timestamp="1591577849471">
       <screen x="2160" y="0" width="2560" height="1400" />
     </state>
     <state x="2798" y="284" key="FileChooserDialogImpl/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1591577849471" />
-    <state width="2507" height="368" key="GridCell.Tab.0.bottom" timestamp="1593337563332">
+    <state width="2507" height="368" key="GridCell.Tab.0.bottom" timestamp="1593340257150">
       <screen x="2160" y="0" width="2560" height="1400" />
     </state>
     <state width="1387" height="218" key="GridCell.Tab.0.bottom/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1593223811259" />
-    <state width="2507" height="368" key="GridCell.Tab.0.bottom/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1593337563332" />
+    <state width="2507" height="368" key="GridCell.Tab.0.bottom/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1593340257150" />
     <state width="666" height="722" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1587283600056" />
-    <state width="2507" height="368" key="GridCell.Tab.0.center" timestamp="1593337563332">
+    <state width="2507" height="368" key="GridCell.Tab.0.center" timestamp="1593340257150">
       <screen x="2160" y="0" width="2560" height="1400" />
     </state>
     <state width="1387" height="218" key="GridCell.Tab.0.center/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1593223811259" />
-    <state width="2507" height="368" key="GridCell.Tab.0.center/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1593337563332" />
+    <state width="2507" height="368" key="GridCell.Tab.0.center/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1593340257150" />
     <state width="666" height="722" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1587283600056" />
-    <state width="2507" height="368" key="GridCell.Tab.0.left" timestamp="1593337563332">
+    <state width="2507" height="368" key="GridCell.Tab.0.left" timestamp="1593340257150">
       <screen x="2160" y="0" width="2560" height="1400" />
     </state>
     <state width="1387" height="218" key="GridCell.Tab.0.left/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1593223811259" />
-    <state width="2507" height="368" key="GridCell.Tab.0.left/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1593337563332" />
+    <state width="2507" height="368" key="GridCell.Tab.0.left/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1593340257150" />
     <state width="666" height="722" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1587283600056" />
-    <state width="2507" height="368" key="GridCell.Tab.0.right" timestamp="1593337563332">
+    <state width="2507" height="368" key="GridCell.Tab.0.right" timestamp="1593340257150">
       <screen x="2160" y="0" width="2560" height="1400" />
     </state>
     <state width="1387" height="218" key="GridCell.Tab.0.right/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1593223811259" />
-    <state width="2507" height="368" key="GridCell.Tab.0.right/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1593337563332" />
+    <state width="2507" height="368" key="GridCell.Tab.0.right/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1593340257150" />
     <state width="666" height="722" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1587283600056" />
     <state width="1387" height="285" key="GridCell.Tab.1.bottom" timestamp="1593223811256">
       <screen x="0" y="0" width="1440" height="920" />
@@ -343,10 +350,11 @@
     </state>
     <state x="2420" y="114" width="1296" height="944" key="SettingsEditor/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1591577764765" />
     <state x="146" y="0" key="SettingsEditor/0.0.1440.920@0.0.1440.920" timestamp="1584759045967" />
-    <state x="213" y="129" key="Vcs.Push.Dialog.v2" timestamp="1593223112028">
-      <screen x="0" y="0" width="1440" height="920" />
+    <state x="2539" y="196" key="Vcs.Push.Dialog.v2" timestamp="1593340244686">
+      <screen x="2160" y="0" width="2560" height="1400" />
     </state>
     <state x="213" y="129" key="Vcs.Push.Dialog.v2/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1593223112028" />
+    <state x="2539" y="196" key="Vcs.Push.Dialog.v2/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1593340244686" />
     <state x="405" y="285" key="com.intellij.ide.util.TipDialog" timestamp="1593219440812">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
