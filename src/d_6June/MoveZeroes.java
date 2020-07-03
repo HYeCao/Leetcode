@@ -1,17 +1,26 @@
 package d_6June;
 
 public class MoveZeroes {
-//    public void moveZeroes(int[] nums) {
-//        int[] res=new int[nums.length];
-//        int j=0;
-//        for(int i=0;i<nums.length;i++){
-//            if(nums[i]!=0){
-//                res[j]=nums[i];
-//                j++;
-//            }
-//        }
-//        nums=res;
-//    }
+    /**
+     * 模仿双指针
+     * @param nums
+     */
+    public void moveZeroes(int[] nums) {
+        int j=0;
+        for(int i=0;i<nums.length;i++){
+            if(nums[i]!=0){
+                nums[j++]=nums[i];//先加到J J再++
+            }
+        }
+        for(int i=j;i<nums.length;i++){
+            nums[i]=0;
+        }
+    }
+
+    /**
+     * 双指针操作 一个按顺序 一个动态变化
+     * @param nums
+     */
     public void move(int[] nums){
         if(nums==null) {
             return;

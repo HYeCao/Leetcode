@@ -2,7 +2,7 @@ package d_6June;
 
 public class MinEditDistance {
     /**
-     * 动态规划算法
+     * 动态规划算法 无递归
      * @param {string} a
      * @param {string} b
      * @returns {number} 从 a → b 的最小编辑距离
