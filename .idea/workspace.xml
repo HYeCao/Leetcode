@@ -2,19 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c5bcc0e-de49-4738-94e4-aa8666332474" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/e_7July/AnimalShelf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/e_7July/BitwiseComplement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/e_7July/DeleteNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/e_7July/FindDisappearedNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/e_7July/Hanota.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/e_7July/MaxSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/e_7July/MaxSubArray2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/e_7July/MinStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/e_7July/ReverseBits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/e_7July/ShiftGrid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/e_7July/StringMatching.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/e_7July/SumEvenAfterQueries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/e_7July/ToGoatLatin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e_7July/ConstructArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e_7July/ExpectNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e_7July/FindString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e_7July/GcdOfStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e_7July/GetImportance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e_7July/IsPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e_7July/ReformatDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e_7July/RemoveElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e_7July/ShortestCompletingWord.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -22,6 +18,20 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -67,7 +77,7 @@
       <recent name="D:\JavaResource\Leetcode\src\aaa" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BitwiseComplement">
+  <component name="RunManager" selected="Application.ShortestCompletingWord">
     <configuration name="BitwiseComplement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="e_7July.BitwiseComplement" />
       <module name="Leetcode" />
@@ -94,8 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseBits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="e_7July.ReverseBits" />
+    <configuration name="GcdOfStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="e_7July.GcdOfStrings" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
@@ -107,8 +117,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotatedDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="e_7July.RotatedDigits" />
+    <configuration name="ShortestCompletingWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="e_7July.ShortestCompletingWord" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
@@ -135,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ShortestCompletingWord" />
+        <item itemvalue="Application.GcdOfStrings" />
         <item itemvalue="Application.BitwiseComplement" />
         <item itemvalue="Application.StringMatching" />
         <item itemvalue="Application.ConvertBiNode" />
-        <item itemvalue="Application.ReverseBits" />
-        <item itemvalue="Application.RotatedDigits" />
       </list>
     </recent_temporary>
   </component>
@@ -231,7 +241,12 @@
       <workItem from="1594608928622" duration="19315000" />
       <workItem from="1594711137314" duration="3227000" />
       <workItem from="1594719514637" duration="428000" />
-      <workItem from="1594771735340" duration="12941000" />
+      <workItem from="1594771735340" duration="13056000" />
+      <workItem from="1594950682695" duration="5167000" />
+      <workItem from="1595121011485" duration="1313000" />
+      <workItem from="1595122854366" duration="1849000" />
+      <workItem from="1595142019326" duration="46000" />
+      <workItem from="1595211253367" duration="13299000" />
     </task>
     <task id="LOCAL-00001" summary="6.23">
       <created>1592907673616</created>
@@ -338,7 +353,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594286248992</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="7.15">
+      <created>1594798037127</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1594798037127</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -353,42 +375,43 @@
     <MESSAGE value="7.1" />
     <MESSAGE value="7.3" />
     <MESSAGE value="7.9" />
-    <option name="LAST_COMMIT_MESSAGE" value="7.9" />
+    <MESSAGE value="7.15" />
+    <option name="LAST_COMMIT_MESSAGE" value="7.15" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2969" y="224" key="CommitChangelistDialog2" timestamp="1594286248378">
+    <state x="2969" y="224" key="CommitChangelistDialog2" timestamp="1594798036295">
       <screen x="2160" y="0" width="2560" height="1400" />
     </state>
     <state x="455" y="0" key="CommitChangelistDialog2/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1593424919564" />
-    <state x="2969" y="224" key="CommitChangelistDialog2/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1594286248378" />
+    <state x="2969" y="224" key="CommitChangelistDialog2/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1594798036295" />
     <state x="455" y="0" key="CommitChangelistDialog2/0.0.1440.920@0.0.1440.920" timestamp="1593139731281" />
     <state x="2798" y="284" key="FileChooserDialogImpl" timestamp="1593738758587">
       <screen x="2160" y="0" width="2560" height="1400" />
     </state>
     <state x="2798" y="284" key="FileChooserDialogImpl/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1593738758587" />
-    <state width="2507" height="216" key="GridCell.Tab.0.bottom" timestamp="1594792387143">
+    <state width="2507" height="365" key="GridCell.Tab.0.bottom" timestamp="1595219259100">
       <screen x="2160" y="0" width="2560" height="1400" />
     </state>
-    <state width="1387" height="285" key="GridCell.Tab.0.bottom/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1593498509465" />
-    <state width="2507" height="216" key="GridCell.Tab.0.bottom/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1594792387143" />
+    <state width="1387" height="216" key="GridCell.Tab.0.bottom/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1594960777270" />
+    <state width="2507" height="365" key="GridCell.Tab.0.bottom/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1595219259100" />
     <state width="1387" height="217" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1594135584198" />
-    <state width="2507" height="216" key="GridCell.Tab.0.center" timestamp="1594792387143">
+    <state width="2507" height="365" key="GridCell.Tab.0.center" timestamp="1595219259099">
       <screen x="2160" y="0" width="2560" height="1400" />
     </state>
-    <state width="1387" height="285" key="GridCell.Tab.0.center/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1593498509465" />
-    <state width="2507" height="216" key="GridCell.Tab.0.center/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1594792387143" />
+    <state width="1387" height="216" key="GridCell.Tab.0.center/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1594960777270" />
+    <state width="2507" height="365" key="GridCell.Tab.0.center/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1595219259099" />
     <state width="1387" height="217" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1594135584198" />
-    <state width="2507" height="216" key="GridCell.Tab.0.left" timestamp="1594792387143">
+    <state width="2507" height="365" key="GridCell.Tab.0.left" timestamp="1595219259099">
       <screen x="2160" y="0" width="2560" height="1400" />
     </state>
-    <state width="1387" height="285" key="GridCell.Tab.0.left/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1593498509465" />
-    <state width="2507" height="216" key="GridCell.Tab.0.left/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1594792387143" />
+    <state width="1387" height="216" key="GridCell.Tab.0.left/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1594960777270" />
+    <state width="2507" height="365" key="GridCell.Tab.0.left/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1595219259099" />
     <state width="1387" height="217" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1594135584198" />
-    <state width="2507" height="216" key="GridCell.Tab.0.right" timestamp="1594792387143">
+    <state width="2507" height="365" key="GridCell.Tab.0.right" timestamp="1595219259100">
       <screen x="2160" y="0" width="2560" height="1400" />
     </state>
-    <state width="1387" height="285" key="GridCell.Tab.0.right/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1593498509465" />
-    <state width="2507" height="216" key="GridCell.Tab.0.right/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1594792387143" />
+    <state width="1387" height="216" key="GridCell.Tab.0.right/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1594960777270" />
+    <state width="2507" height="365" key="GridCell.Tab.0.right/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1595219259100" />
     <state width="1387" height="217" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1594135584198" />
     <state width="2507" height="475" key="GridCell.Tab.1.bottom" timestamp="1594286286060">
       <screen x="2160" y="0" width="2560" height="1400" />
@@ -414,17 +437,17 @@
       <screen x="2160" y="0" width="2560" height="1400" />
     </state>
     <state x="2420" y="114" width="1296" height="944" key="SettingsEditor/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1591577764765" />
-    <state x="2539" y="196" key="Vcs.Push.Dialog.v2" timestamp="1594798023737">
+    <state x="2539" y="196" key="Vcs.Push.Dialog.v2" timestamp="1594798043392">
       <screen x="2160" y="0" width="2560" height="1400" />
     </state>
     <state x="213" y="129" key="Vcs.Push.Dialog.v2/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1593424927398" />
-    <state x="2539" y="196" key="Vcs.Push.Dialog.v2/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1594798023737" />
-    <state x="405" y="289" width="576" height="289" key="com.intellij.ide.util.TipDialog" timestamp="1594771750693">
+    <state x="2539" y="196" key="Vcs.Push.Dialog.v2/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1594798043392" />
+    <state x="405" y="289" width="576" height="289" key="com.intellij.ide.util.TipDialog" timestamp="1595211304260">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="405" y="289" width="576" height="289" key="com.intellij.ide.util.TipDialog/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1594771750693" />
-    <state x="2880" y="434" key="com.intellij.ide.util.TipDialog/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1594711137892" />
-    <state x="405" y="285" key="com.intellij.ide.util.TipDialog/0.0.1440.920@0.0.1440.920" timestamp="1594134470459" />
+    <state x="405" y="289" width="576" height="289" key="com.intellij.ide.util.TipDialog/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1595211304260" />
+    <state x="2880" y="434" key="com.intellij.ide.util.TipDialog/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1594950682045" />
+    <state x="405" y="285" key="com.intellij.ide.util.TipDialog/0.0.1440.920@0.0.1440.920" timestamp="1595142021113" />
     <state x="584" y="393" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593424333341">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
@@ -438,16 +461,17 @@
       <screen x="2160" y="0" width="2560" height="1400" />
     </state>
     <state x="2641" y="377" key="new project wizard/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1593738773510" />
-    <state x="2681" y="315" key="run.anything.popup" timestamp="1594711362925">
-      <screen x="2160" y="0" width="2560" height="1400" />
+    <state x="293" y="207" key="run.anything.popup" timestamp="1595123197999">
+      <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="2681" y="315" key="run.anything.popup/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1594711362925" />
-    <state x="293" y="207" key="run.anything.popup/0.0.1440.920@0.0.1440.920" timestamp="1593754765182" />
-    <state x="2692" y="-2" width="1494" height="1574" key="search.everywhere.popup" timestamp="1594712297533">
-      <screen x="2160" y="0" width="2560" height="1400" />
+    <state x="293" y="207" key="run.anything.popup/0.0.1440.920@0.0.1440.920" timestamp="1595123197999" />
+    <state x="299" y="-1" width="841" height="1035" key="search.everywhere.popup" timestamp="1595121706202">
+      <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="299" y="-1" width="841" height="1035" key="search.everywhere.popup/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1593424807171" />
     <state x="2692" y="-2" width="1494" height="1574" key="search.everywhere.popup/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1594712297533" />
+    <state x="299" y="-1" width="841" height="1035" key="search.everywhere.popup/0.0.1440.920@0.0.1440.920" timestamp="1595121706202" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -507,6 +531,14 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/e_7July/ShortestCompletingWord.java</url>
+          <line>5</line>
+          <properties class="e_7July.ShortestCompletingWord" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/e_7July/ShiftGrid.java</url>
