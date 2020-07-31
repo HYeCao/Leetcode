@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c5bcc0e-de49-4738-94e4-aa8666332474" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/e_7July/GcdOfStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/e_7July/GetImportance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/e_7July/ShortestCompletingWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e_7July/DuplicateZeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e_7July/IsBalanced.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e_7July/IsSameTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e_7July/IsSymmetric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e_7July/MaxPower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e_7July/MinStack2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e_7July/NumberOfBoomerangs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e_7July/ReplaceSpaces.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -71,9 +76,9 @@
       <recent name="D:\JavaResource\Leetcode\src\aaa" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ShortestCompletingWord">
-    <configuration name="BitwiseComplement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="e_7July.BitwiseComplement" />
+  <component name="RunManager" selected="Application.NumberOfBoomerangs">
+    <configuration name="DuplicateZeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="e_7July.DuplicateZeros" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
@@ -85,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConvertBiNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="e_7July.ConvertBiNode" />
+    <configuration name="IsBalanced" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="e_7July.IsBalanced" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
@@ -98,8 +103,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GcdOfStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="e_7July.GcdOfStrings" />
+    <configuration name="NumberOfBoomerangs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="e_7July.NumberOfBoomerangs" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="e_7July.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReplaceSpaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="e_7July.ReplaceSpaces" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
@@ -124,26 +142,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringMatching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="e_7July.StringMatching" />
-      <module name="Leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="e_7July.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumberOfBoomerangs" />
+        <item itemvalue="Application.IsBalanced" />
+        <item itemvalue="Application.DuplicateZeros" />
+        <item itemvalue="Application.ReplaceSpaces" />
         <item itemvalue="Application.ShortestCompletingWord" />
-        <item itemvalue="Application.GcdOfStrings" />
-        <item itemvalue="Application.BitwiseComplement" />
-        <item itemvalue="Application.StringMatching" />
-        <item itemvalue="Application.ConvertBiNode" />
       </list>
     </recent_temporary>
   </component>
@@ -240,7 +245,18 @@
       <workItem from="1595121011485" duration="1313000" />
       <workItem from="1595122854366" duration="1849000" />
       <workItem from="1595142019326" duration="46000" />
-      <workItem from="1595211253367" duration="1636000" />
+      <workItem from="1595211253367" duration="13475000" />
+      <workItem from="1595298387240" duration="9078000" />
+      <workItem from="1595399131033" duration="4489000" />
+      <workItem from="1595467886723" duration="310000" />
+      <workItem from="1595468515533" duration="3688000" />
+      <workItem from="1595484883322" duration="203000" />
+      <workItem from="1595553884127" duration="3545000" />
+      <workItem from="1595661942695" duration="767000" />
+      <workItem from="1595748900947" duration="7831000" />
+      <workItem from="1595835594287" duration="2659000" />
+      <workItem from="1595915508052" duration="8769000" />
+      <workItem from="1595986688490" duration="19000" />
     </task>
     <task id="LOCAL-00001" summary="6.23">
       <created>1592907673616</created>
@@ -354,7 +370,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594798037127</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="7.20">
+      <created>1595231329542</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1595231329542</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -370,43 +393,52 @@
     <MESSAGE value="7.3" />
     <MESSAGE value="7.9" />
     <MESSAGE value="7.15" />
-    <option name="LAST_COMMIT_MESSAGE" value="7.15" />
+    <MESSAGE value="7.20" />
+    <option name="LAST_COMMIT_MESSAGE" value="7.20" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2969" y="224" key="CommitChangelistDialog2" timestamp="1594798036295">
+    <state x="2932" y="276" key="#Auto_Import" timestamp="1595473819523">
+      <screen x="2160" y="0" width="2560" height="1400" />
+    </state>
+    <state x="2932" y="276" key="#Auto_Import/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1595473819523" />
+    <state x="3140" y="486" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595311319383">
+      <screen x="2160" y="0" width="2560" height="1400" />
+    </state>
+    <state x="3140" y="486" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1595311319383" />
+    <state x="2969" y="224" key="CommitChangelistDialog2" timestamp="1595231328468">
       <screen x="2160" y="0" width="2560" height="1400" />
     </state>
     <state x="455" y="0" key="CommitChangelistDialog2/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1593424919564" />
-    <state x="2969" y="224" key="CommitChangelistDialog2/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1594798036295" />
+    <state x="2969" y="224" key="CommitChangelistDialog2/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1595231328468" />
     <state x="455" y="0" key="CommitChangelistDialog2/0.0.1440.920@0.0.1440.920" timestamp="1593139731281" />
     <state x="2798" y="284" key="FileChooserDialogImpl" timestamp="1593738758587">
       <screen x="2160" y="0" width="2560" height="1400" />
     </state>
     <state x="2798" y="284" key="FileChooserDialogImpl/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1593738758587" />
-    <state width="1387" height="216" key="GridCell.Tab.0.bottom" timestamp="1594960777270">
-      <screen x="0" y="0" width="1440" height="920" />
+    <state width="2507" height="255" key="GridCell.Tab.0.bottom" timestamp="1595928828987">
+      <screen x="2160" y="0" width="2560" height="1400" />
     </state>
-    <state width="1387" height="216" key="GridCell.Tab.0.bottom/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1594960777270" />
-    <state width="2507" height="216" key="GridCell.Tab.0.bottom/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1594798102690" />
-    <state width="1387" height="217" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1594135584198" />
-    <state width="1387" height="216" key="GridCell.Tab.0.center" timestamp="1594960777270">
-      <screen x="0" y="0" width="1440" height="920" />
+    <state width="1387" height="147" key="GridCell.Tab.0.bottom/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1595839890805" />
+    <state width="2507" height="255" key="GridCell.Tab.0.bottom/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1595928828987" />
+    <state width="1387" height="147" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1595756738978" />
+    <state width="2507" height="255" key="GridCell.Tab.0.center" timestamp="1595928828987">
+      <screen x="2160" y="0" width="2560" height="1400" />
     </state>
-    <state width="1387" height="216" key="GridCell.Tab.0.center/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1594960777270" />
-    <state width="2507" height="216" key="GridCell.Tab.0.center/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1594798102690" />
-    <state width="1387" height="217" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1594135584198" />
-    <state width="1387" height="216" key="GridCell.Tab.0.left" timestamp="1594960777270">
-      <screen x="0" y="0" width="1440" height="920" />
+    <state width="1387" height="147" key="GridCell.Tab.0.center/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1595839890805" />
+    <state width="2507" height="255" key="GridCell.Tab.0.center/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1595928828987" />
+    <state width="1387" height="147" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1595756738978" />
+    <state width="2507" height="255" key="GridCell.Tab.0.left" timestamp="1595928828987">
+      <screen x="2160" y="0" width="2560" height="1400" />
     </state>
-    <state width="1387" height="216" key="GridCell.Tab.0.left/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1594960777270" />
-    <state width="2507" height="216" key="GridCell.Tab.0.left/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1594798102690" />
-    <state width="1387" height="217" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1594135584198" />
-    <state width="1387" height="216" key="GridCell.Tab.0.right" timestamp="1594960777270">
-      <screen x="0" y="0" width="1440" height="920" />
+    <state width="1387" height="147" key="GridCell.Tab.0.left/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1595839890805" />
+    <state width="2507" height="255" key="GridCell.Tab.0.left/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1595928828987" />
+    <state width="1387" height="147" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1595756738978" />
+    <state width="2507" height="255" key="GridCell.Tab.0.right" timestamp="1595928828987">
+      <screen x="2160" y="0" width="2560" height="1400" />
     </state>
-    <state width="1387" height="216" key="GridCell.Tab.0.right/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1594960777270" />
-    <state width="2507" height="216" key="GridCell.Tab.0.right/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1594798102690" />
-    <state width="1387" height="217" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1594135584198" />
+    <state width="1387" height="147" key="GridCell.Tab.0.right/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1595839890805" />
+    <state width="2507" height="255" key="GridCell.Tab.0.right/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1595928828987" />
+    <state width="1387" height="147" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1595756738978" />
     <state width="2507" height="475" key="GridCell.Tab.1.bottom" timestamp="1594286286060">
       <screen x="2160" y="0" width="2560" height="1400" />
     </state>
@@ -431,17 +463,17 @@
       <screen x="2160" y="0" width="2560" height="1400" />
     </state>
     <state x="2420" y="114" width="1296" height="944" key="SettingsEditor/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1591577764765" />
-    <state x="2539" y="196" key="Vcs.Push.Dialog.v2" timestamp="1594798043392">
+    <state x="2539" y="196" key="Vcs.Push.Dialog.v2" timestamp="1595231337835">
       <screen x="2160" y="0" width="2560" height="1400" />
     </state>
     <state x="213" y="129" key="Vcs.Push.Dialog.v2/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1593424927398" />
-    <state x="2539" y="196" key="Vcs.Push.Dialog.v2/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1594798043392" />
-    <state x="405" y="289" width="576" height="289" key="com.intellij.ide.util.TipDialog" timestamp="1595211304260">
-      <screen x="0" y="0" width="1440" height="920" />
+    <state x="2539" y="196" key="Vcs.Push.Dialog.v2/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1595231337835" />
+    <state x="2880" y="434" width="576" height="289" key="com.intellij.ide.util.TipDialog" timestamp="1595986688443">
+      <screen x="2160" y="0" width="2560" height="1400" />
     </state>
-    <state x="405" y="289" width="576" height="289" key="com.intellij.ide.util.TipDialog/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1595211304260" />
-    <state x="2880" y="434" key="com.intellij.ide.util.TipDialog/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1594950682045" />
-    <state x="405" y="285" key="com.intellij.ide.util.TipDialog/0.0.1440.920@0.0.1440.920" timestamp="1595142021113" />
+    <state x="405" y="289" width="576" height="289" key="com.intellij.ide.util.TipDialog/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1595915509838" />
+    <state x="2880" y="434" key="com.intellij.ide.util.TipDialog/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1595986688443" />
+    <state x="405" y="285" key="com.intellij.ide.util.TipDialog/0.0.1440.920@0.0.1440.920" timestamp="1595748904705" />
     <state x="584" y="393" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593424333341">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
@@ -460,12 +492,12 @@
     </state>
     <state x="2681" y="315" key="run.anything.popup/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1594711362925" />
     <state x="293" y="207" key="run.anything.popup/0.0.1440.920@0.0.1440.920" timestamp="1595123197999" />
-    <state x="299" y="-1" width="841" height="1035" key="search.everywhere.popup" timestamp="1595121706202">
+    <state x="299" y="-1" width="841" height="1035" key="search.everywhere.popup" timestamp="1595750579146">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="299" y="-1" width="841" height="1035" key="search.everywhere.popup/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1593424807171" />
-    <state x="2692" y="-2" width="1494" height="1574" key="search.everywhere.popup/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1594712297533" />
-    <state x="299" y="-1" width="841" height="1035" key="search.everywhere.popup/0.0.1440.920@0.0.1440.920" timestamp="1595121706202" />
+    <state x="2692" y="-2" width="1494" height="1574" key="search.everywhere.popup/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1595311012969" />
+    <state x="299" y="-1" width="841" height="1035" key="search.everywhere.popup/0.0.1440.920@0.0.1440.920" timestamp="1595750579146" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -525,6 +557,14 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/e_7July/ShortestCompletingWord.java</url>
+          <line>5</line>
+          <properties class="e_7July.ShortestCompletingWord" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/e_7July/ShiftGrid.java</url>
