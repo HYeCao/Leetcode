@@ -2,19 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c5bcc0e-de49-4738-94e4-aa8666332474" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/bytedance/a1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bytedance/a2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bytedance/a3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bytedance/aa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/f_8August/DistanceBetweenBusStops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/f_8August/FindTheDistanceValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/f_8August/GetMinimumDifference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/f_8August/IsSymmetric.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/f_8August/LevelOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/f_8August/MinSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/f_8August/NumWaterBottles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/f_8August/NumWays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/f_8August/NumberOfBoomerangs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/f_8August/Average.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/f_8August/FindMaxConsecutiveOnes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/f_8August/MissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/f_8August/ReorderLogFiles.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -81,7 +72,7 @@
       <recent name="D:\JavaResource\Leetcode\src\aaa" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NumWaterBottles">
+  <component name="RunManager" selected="Application.MissingNumber">
     <configuration name="CommonChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="f_8August.CommonChars" />
       <module name="Leetcode" />
@@ -108,6 +99,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="f_8August.MissingNumber" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="f_8August.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NumWaterBottles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="f_8August.NumWaterBottles" />
       <module name="Leetcode" />
@@ -121,21 +125,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumWays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="f_8August.NumWays" />
-      <module name="Leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="f_8August.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NumberOfBoomerangs (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="f_8August.NumberOfBoomerangs" />
+    <configuration name="ReorderLogFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="f_8August.ReorderLogFiles" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
@@ -149,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MissingNumber" />
+        <item itemvalue="Application.ReorderLogFiles" />
         <item itemvalue="Application.NumWaterBottles" />
         <item itemvalue="Application.CommonChars" />
         <item itemvalue="Application.IsSymmetric" />
-        <item itemvalue="Application.NumWays" />
-        <item itemvalue="Application.NumberOfBoomerangs (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -268,7 +259,9 @@
       <workItem from="1596499756429" duration="6712000" />
       <workItem from="1596588085854" duration="8829000" />
       <workItem from="1596620550127" duration="709000" />
-      <workItem from="1596675040315" duration="3964000" />
+      <workItem from="1596675040315" duration="4043000" />
+      <workItem from="1596708746039" duration="3764000" />
+      <workItem from="1596888839035" duration="1612000" />
     </task>
     <task id="LOCAL-00001" summary="6.23">
       <created>1592907673616</created>
@@ -396,7 +389,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596189457256</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="8.6">
+      <created>1596681750809</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1596681750809</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -414,7 +414,8 @@
     <MESSAGE value="7.15" />
     <MESSAGE value="7.20" />
     <MESSAGE value="7.31" />
-    <option name="LAST_COMMIT_MESSAGE" value="7.31" />
+    <MESSAGE value="8.6" />
+    <option name="LAST_COMMIT_MESSAGE" value="8.6" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2932" y="276" key="#Auto_Import" timestamp="1595473819523">
@@ -425,40 +426,40 @@
       <screen x="2160" y="0" width="2560" height="1400" />
     </state>
     <state x="3140" y="486" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1595311319383" />
-    <state x="2969" y="224" key="CommitChangelistDialog2" timestamp="1596189456149">
-      <screen x="2160" y="0" width="2560" height="1400" />
+    <state x="455" y="0" key="CommitChangelistDialog2" timestamp="1596681749850">
+      <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="455" y="0" key="CommitChangelistDialog2/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1593424919564" />
     <state x="2969" y="224" key="CommitChangelistDialog2/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1596189456149" />
-    <state x="455" y="0" key="CommitChangelistDialog2/0.0.1440.920@0.0.1440.920" timestamp="1593139731281" />
+    <state x="455" y="0" key="CommitChangelistDialog2/0.0.1440.920@0.0.1440.920" timestamp="1596681749850" />
     <state x="2798" y="284" key="FileChooserDialogImpl" timestamp="1593738758587">
       <screen x="2160" y="0" width="2560" height="1400" />
     </state>
     <state x="2798" y="284" key="FileChooserDialogImpl/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1593738758587" />
-    <state width="1387" height="203" key="GridCell.Tab.0.bottom" timestamp="1596678368562">
+    <state width="1387" height="203" key="GridCell.Tab.0.bottom" timestamp="1596889979868">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state width="1387" height="147" key="GridCell.Tab.0.bottom/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1595839890805" />
     <state width="2507" height="475" key="GridCell.Tab.0.bottom/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1596253031715" />
-    <state width="1387" height="203" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1596678368562" />
-    <state width="1387" height="203" key="GridCell.Tab.0.center" timestamp="1596678368562">
+    <state width="1387" height="203" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1596889979868" />
+    <state width="1387" height="203" key="GridCell.Tab.0.center" timestamp="1596889979868">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state width="1387" height="147" key="GridCell.Tab.0.center/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1595839890805" />
     <state width="2507" height="475" key="GridCell.Tab.0.center/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1596253031715" />
-    <state width="1387" height="203" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1596678368562" />
-    <state width="1387" height="203" key="GridCell.Tab.0.left" timestamp="1596678368561">
+    <state width="1387" height="203" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1596889979868" />
+    <state width="1387" height="203" key="GridCell.Tab.0.left" timestamp="1596889979866">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state width="1387" height="147" key="GridCell.Tab.0.left/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1595839890805" />
     <state width="2507" height="475" key="GridCell.Tab.0.left/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1596253031714" />
-    <state width="1387" height="203" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1596678368561" />
-    <state width="1387" height="203" key="GridCell.Tab.0.right" timestamp="1596678368562">
+    <state width="1387" height="203" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1596889979866" />
+    <state width="1387" height="203" key="GridCell.Tab.0.right" timestamp="1596889979868">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state width="1387" height="147" key="GridCell.Tab.0.right/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1595839890805" />
     <state width="2507" height="475" key="GridCell.Tab.0.right/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1596253031715" />
-    <state width="1387" height="203" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1596678368562" />
+    <state width="1387" height="203" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1596889979868" />
     <state width="2507" height="475" key="GridCell.Tab.1.bottom" timestamp="1596253031715">
       <screen x="2160" y="0" width="2560" height="1400" />
     </state>
@@ -483,17 +484,18 @@
       <screen x="2160" y="0" width="2560" height="1400" />
     </state>
     <state x="2420" y="114" width="1296" height="944" key="SettingsEditor/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1591577764765" />
-    <state x="2539" y="196" key="Vcs.Push.Dialog.v2" timestamp="1596189464669">
-      <screen x="2160" y="0" width="2560" height="1400" />
+    <state x="213" y="129" key="Vcs.Push.Dialog.v2" timestamp="1596681757290">
+      <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="213" y="129" key="Vcs.Push.Dialog.v2/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1593424927398" />
     <state x="2539" y="196" key="Vcs.Push.Dialog.v2/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1596189464669" />
-    <state x="405" y="285" width="576" height="289" key="com.intellij.ide.util.TipDialog" timestamp="1596675041133">
+    <state x="213" y="129" key="Vcs.Push.Dialog.v2/0.0.1440.920@0.0.1440.920" timestamp="1596681757290" />
+    <state x="405" y="285" width="576" height="289" key="com.intellij.ide.util.TipDialog" timestamp="1596888840149">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="405" y="289" width="576" height="289" key="com.intellij.ide.util.TipDialog/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1595915509838" />
     <state x="2880" y="434" key="com.intellij.ide.util.TipDialog/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1596243708838" />
-    <state x="405" y="285" key="com.intellij.ide.util.TipDialog/0.0.1440.920@0.0.1440.920" timestamp="1596675041133" />
+    <state x="405" y="285" key="com.intellij.ide.util.TipDialog/0.0.1440.920@0.0.1440.920" timestamp="1596888840149" />
     <state x="584" y="393" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593424333341">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
