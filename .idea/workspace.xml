@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c5bcc0e-de49-4738-94e4-aa8666332474" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/f_8August/Add.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/f_8August/FindContentChildren.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/f_8August/FindTilt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/f_8August/GetIntersectionNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/f_8August/LargestPerimeter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/f_8August/LemonadeChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/f_8August/LongestPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/f_8August/MinStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/f_8August/ReverseOnlyLetters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/f_8August/SumOfLeftLeaves.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/f_8August/DetectCapitalUse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/f_8August/IsFlipedString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/f_8August/MaxProfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/f_8August/Search.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -79,20 +73,7 @@
       <recent name="D:\JavaResource\Leetcode\src\aaa" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LongestPalindrome">
-    <configuration name="CountAndSay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="f_8August.CountAndSay" />
-      <module name="Leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="f_8August.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Search">
     <configuration name="DetectCapitalUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="f_8August.DetectCapitalUse" />
       <module name="Leetcode" />
@@ -132,8 +113,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseOnlyLetters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="f_8August.ReverseOnlyLetters" />
+    <configuration name="ReverseStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="f_8August.ReverseStr" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="f_8August.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="f_8August.Search" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
@@ -147,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LongestPalindrome" />
+        <item itemvalue="Application.Search" />
+        <item itemvalue="Application.ReverseStr" />
         <item itemvalue="Application.DetectCapitalUse" />
+        <item itemvalue="Application.LongestPalindrome" />
         <item itemvalue="Application.FindTilt" />
-        <item itemvalue="Application.ReverseOnlyLetters" />
-        <item itemvalue="Application.CountAndSay" />
       </list>
     </recent_temporary>
   </component>
@@ -273,7 +267,10 @@
       <workItem from="1597116861509" duration="638000" />
       <workItem from="1597129853455" duration="3228000" />
       <workItem from="1597374785594" duration="8049000" />
-      <workItem from="1597977535509" duration="10184000" />
+      <workItem from="1597977535509" duration="10291000" />
+      <workItem from="1598342450967" duration="1387000" />
+      <workItem from="1598408289962" duration="15619000" />
+      <workItem from="1598584107759" duration="1676000" />
     </task>
     <task id="LOCAL-00001" summary="6.23">
       <created>1592907673616</created>
@@ -422,7 +419,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597044544696</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="8.23">
+      <created>1598170372226</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1598170372226</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -443,7 +447,8 @@
     <MESSAGE value="8.6" />
     <MESSAGE value="8.8" />
     <MESSAGE value="8.10" />
-    <option name="LAST_COMMIT_MESSAGE" value="8.10" />
+    <MESSAGE value="8.23" />
+    <option name="LAST_COMMIT_MESSAGE" value="8.23" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2932" y="276" key="#Auto_Import" timestamp="1595473819523">
@@ -458,39 +463,39 @@
       <screen x="2160" y="0" width="2560" height="1400" />
     </state>
     <state x="3132" y="612" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1597025437366" />
-    <state x="2969" y="224" key="CommitChangelistDialog2" timestamp="1597044544020">
+    <state x="2969" y="224" key="CommitChangelistDialog2" timestamp="1598170370864">
       <screen x="2160" y="0" width="2560" height="1400" />
     </state>
     <state x="455" y="0" key="CommitChangelistDialog2/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1593424919564" />
-    <state x="2969" y="224" key="CommitChangelistDialog2/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1597044544020" />
+    <state x="2969" y="224" key="CommitChangelistDialog2/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1598170370864" />
     <state x="455" y="0" key="CommitChangelistDialog2/0.0.1440.920@0.0.1440.920" timestamp="1596890459820" />
     <state x="2798" y="284" key="FileChooserDialogImpl" timestamp="1593738758587">
       <screen x="2160" y="0" width="2560" height="1400" />
     </state>
     <state x="2798" y="284" key="FileChooserDialogImpl/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1593738758587" />
-    <state width="2507" height="199" key="GridCell.Tab.0.bottom" timestamp="1598169239046">
+    <state width="2507" height="199" key="GridCell.Tab.0.bottom" timestamp="1598515548506">
       <screen x="2160" y="0" width="2560" height="1400" />
     </state>
     <state width="1387" height="147" key="GridCell.Tab.0.bottom/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1595839890805" />
-    <state width="2507" height="199" key="GridCell.Tab.0.bottom/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1598169239046" />
+    <state width="2507" height="199" key="GridCell.Tab.0.bottom/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1598515548506" />
     <state width="1387" height="199" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1597392111502" />
-    <state width="2507" height="199" key="GridCell.Tab.0.center" timestamp="1598169239045">
+    <state width="2507" height="199" key="GridCell.Tab.0.center" timestamp="1598515548505">
       <screen x="2160" y="0" width="2560" height="1400" />
     </state>
     <state width="1387" height="147" key="GridCell.Tab.0.center/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1595839890805" />
-    <state width="2507" height="199" key="GridCell.Tab.0.center/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1598169239045" />
+    <state width="2507" height="199" key="GridCell.Tab.0.center/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1598515548505" />
     <state width="1387" height="199" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1597392111501" />
-    <state width="2507" height="199" key="GridCell.Tab.0.left" timestamp="1598169239044">
+    <state width="2507" height="199" key="GridCell.Tab.0.left" timestamp="1598515548505">
       <screen x="2160" y="0" width="2560" height="1400" />
     </state>
     <state width="1387" height="147" key="GridCell.Tab.0.left/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1595839890805" />
-    <state width="2507" height="199" key="GridCell.Tab.0.left/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1598169239044" />
+    <state width="2507" height="199" key="GridCell.Tab.0.left/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1598515548505" />
     <state width="1387" height="199" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1597392111501" />
-    <state width="2507" height="199" key="GridCell.Tab.0.right" timestamp="1598169239045">
+    <state width="2507" height="199" key="GridCell.Tab.0.right" timestamp="1598515548506">
       <screen x="2160" y="0" width="2560" height="1400" />
     </state>
     <state width="1387" height="147" key="GridCell.Tab.0.right/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1595839890805" />
-    <state width="2507" height="199" key="GridCell.Tab.0.right/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1598169239045" />
+    <state width="2507" height="199" key="GridCell.Tab.0.right/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1598515548506" />
     <state width="1387" height="199" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1597392111501" />
     <state width="1387" height="284" key="GridCell.Tab.1.bottom" timestamp="1597398148768">
       <screen x="2160" y="0" width="2560" height="1400" />
@@ -520,18 +525,18 @@
       <screen x="2160" y="0" width="2560" height="1400" />
     </state>
     <state x="2420" y="114" width="1296" height="944" key="SettingsEditor/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1591577764765" />
-    <state x="2539" y="196" key="Vcs.Push.Dialog.v2" timestamp="1597044551832">
+    <state x="2539" y="196" key="Vcs.Push.Dialog.v2" timestamp="1598170383579">
       <screen x="2160" y="0" width="2560" height="1400" />
     </state>
     <state x="213" y="129" key="Vcs.Push.Dialog.v2/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1593424927398" />
-    <state x="2539" y="196" key="Vcs.Push.Dialog.v2/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1597044551832" />
+    <state x="2539" y="196" key="Vcs.Push.Dialog.v2/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1598170383579" />
     <state x="213" y="129" key="Vcs.Push.Dialog.v2/0.0.1440.920@0.0.1440.920" timestamp="1596890467075" />
-    <state x="2880" y="434" width="576" height="289" key="com.intellij.ide.util.TipDialog" timestamp="1597977650627">
-      <screen x="2160" y="0" width="2560" height="1400" />
+    <state x="405" y="285" width="576" height="289" key="com.intellij.ide.util.TipDialog" timestamp="1598920389058">
+      <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="405" y="289" width="576" height="289" key="com.intellij.ide.util.TipDialog/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1597023977443" />
-    <state x="2880" y="434" key="com.intellij.ide.util.TipDialog/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1597977650627" />
-    <state x="405" y="285" key="com.intellij.ide.util.TipDialog/0.0.1440.920@0.0.1440.920" timestamp="1596888840149" />
+    <state x="2880" y="434" key="com.intellij.ide.util.TipDialog/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1598584240803" />
+    <state x="405" y="285" key="com.intellij.ide.util.TipDialog/0.0.1440.920@0.0.1440.920" timestamp="1598920389058" />
     <state x="584" y="393" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593424333341">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
@@ -541,10 +546,11 @@
       <screen x="2160" y="0" width="2560" height="1400" />
     </state>
     <state x="3107" y="416" key="extract.method.dialog/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1597033125213" />
-    <state x="378" y="208" key="git4idea.merge.GitPullDialog" timestamp="1593223083219">
-      <screen x="0" y="0" width="1440" height="920" />
+    <state x="2832" y="317" key="git4idea.merge.GitPullDialog" timestamp="1598170377683">
+      <screen x="2160" y="0" width="2560" height="1400" />
     </state>
     <state x="378" y="208" key="git4idea.merge.GitPullDialog/0.0.1440.920/2160.0.2560.1400@0.0.1440.920" timestamp="1593223083219" />
+    <state x="2832" y="317" key="git4idea.merge.GitPullDialog/0.0.1440.920/2160.0.2560.1400@2160.0.2560.1400" timestamp="1598170377683" />
     <state x="2641" y="377" key="new project wizard" timestamp="1593738773510">
       <screen x="2160" y="0" width="2560" height="1400" />
     </state>
